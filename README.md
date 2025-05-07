@@ -11,6 +11,9 @@ The `Regress` folder stores all the regression programs used in the data process
 ## Statistical_Test
 The `Statistical_Test` folder contains all the statistical testing programs used in the project. 
 
+## Data
+The `Data`  folder contains the data from the figures in the thesis. Each Excel spreadsheet includes two sheets, corresponding to Study 1h and Study 2 respectively. In EMG_MedianFrequency, there are the median frequencies of the rectus femoris muscle and the tibialis anterior muscle before and after each group of experiments. In HeartRate, there are the average heart rate values before and after each group of experiments. Regress contains the residual values, slopes, and model performance data of the partial regression analysis.
+
 ## Usage
 To use the programs in this project, you need to have Python or MATLAB installed, depending on the programming language used in each program. Make sure to install all the necessary libraries before running the programs.
 
